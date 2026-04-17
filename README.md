@@ -6,7 +6,8 @@ A lightweight, single-file HTML dashboard for monitoring bug bounty program scop
 
 ## Preview
 
-> Dark-themed dashboard with tab navigation per platform, program cards with expandable scope details, live search, and bounty filters.
+> <img width="1680" height="898" alt="image" src="https://github.com/user-attachments/assets/ed073244-3724-4762-bd92-115422a51c39" />
+
 
 ---
 
